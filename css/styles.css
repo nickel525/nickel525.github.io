@@ -3780,7 +3780,7 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 .navbar-brand img {
-  width: 100px; /* Adjust the width as needed */
+  width: auto; /* Adjust the width as needed */
   height: auto; /* Maintains aspect ratio */
   margin-bottom: 1px;
 }
