@@ -3780,7 +3780,7 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 .navbar-brand img {
-  width: auto; /* Adjust the width as needed */
+  width: 100px; /* Adjust the width as needed */
   height: auto; /* Maintains aspect ratio */
   margin-bottom: 1px;
 }
@@ -3864,6 +3864,10 @@ textarea.form-control-lg {
 .navbar-nav-scroll {
   max-height: var(--bs-scroll-height, 75vh);
   overflow-y: auto;
+}
+
+.image_mainlogo {
+  
 }
 
 @media (min-width: 576px) {
